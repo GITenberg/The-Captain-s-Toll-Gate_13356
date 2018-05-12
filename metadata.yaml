@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/221
     wikipedia: http://en.wikipedia.org/wiki/Frank_R._Stockton
 description: With a Memorial Sketch by Mrs. Stockton
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13356#The-Captain-s-Toll-Gate
 gutenberg_issued: '2004-09-02'
 gutenberg_type: Text
 identifiers:
