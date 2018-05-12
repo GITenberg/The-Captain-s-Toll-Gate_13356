@@ -1,0 +1,46 @@
+_repo: The-Captain-s-Toll-Gate_13356
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Stockton, Marian E. (Marian Edwards)
+    alias: Stockton, Mary Ann Edwards Tuttle
+    deathdate: 1906
+    gutenberg_agent_id: '37088'
+    url: http://www.gutenberg.org/2009/agents/37088
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stockton, Frank Richard
+    aliases:
+    - Stockton, Frank R. (Frank Richard)
+    - Stockton, Francis Richard
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '221'
+    url: http://www.gutenberg.org/2009/agents/221
+    wikipedia: http://en.wikipedia.org/wiki/Frank_R._Stockton
+description: With a Memorial Sketch by Mrs. Stockton
+gutenberg_issued: '2004-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13356'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tollhouses -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Stockton, Frank Richard, 1834-1902'
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'Uncles -- Fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcsh 'Sailors -- Fiction'
+- !lcsh 'Teachers -- Fiction'
+- !lcsh 'Parent and child -- Fiction'
+- !lcsh 'Voyages and travels -- Fiction'
+title: The Captain's Toll-Gate
+url: http://www.gutenberg.org/ebooks/13356
